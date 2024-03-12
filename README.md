@@ -16,7 +16,7 @@ This repository contains the code for a simple Pig Game, a two-player dice game.
 
 ## Preview
 
-[Include a screenshot or gif of your game here]
+![alt text](image.png)
 
 ## Features
 
@@ -38,7 +38,7 @@ This repository contains the code for a simple Pig Game, a two-player dice game.
 2. Click the "Roll Dice" button to roll the dice and accumulate points.
 3. Click the "Hold" button to add the current score to your total score.
 4. The game switches to the next player if a 1 is rolled.
-5. The first player to reach a predefined score of 100 wins.
+5. The first player to reach a predefined score of 100 or more wins.
 
 ## Contributing
 
