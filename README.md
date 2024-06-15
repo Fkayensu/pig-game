@@ -42,4 +42,4 @@ This repository contains the code for a simple Pig Game, a two-player dice game.
 
 ## Contributing
 
-If you would like to contribute to the project, feel free to open issues or submit pull requests.
+If you would like to contribute to the project, feel free to open issues or submit pull requests!.
